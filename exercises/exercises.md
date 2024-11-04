@@ -44,7 +44,7 @@ Numbers and such
     the actual age of the baby in years. Bonus: if the baby is nearing
     its birthday, have the function say *"They'll be XX years old in YY
     months"* (for example, if the baby is 23 months old, the function
-    should say "They'll be 2 years old in 1 month").
+    should say *"They'll be 2 years old in 1 month"*).
 8.  Create a function that takes an ordered list of coordinates of 2D
     points in the form \[\[x1, y1\], \[x2, y2\], \[x3, y3\], \...\] and
     returns the area of the corresponding polygon. It should work with
@@ -57,24 +57,24 @@ Words and characters
     digits of a certain width and height. The rectangle should be drawn
     using the character 0 for the internal space and the character 1 for
     the sides. For example, this is a 5 x 4 rectangle:\
-    1 1 1 1 1\
-    1 0 0 0 1\
-    1 0 0 0 1\
-    1 1 1 1 1
+        1 1 1 1 1\
+        1 0 0 0 1\
+        1 0 0 0 1\
+        1 1 1 1 1
 2.  You've been put in charge of creating SPAM emails for a known online
     retail store. There's a base email contained in the file
-    data/coupon.txt; you must customize it so that in place of the word
+    ```data/coupon.txt```; you must customize it so that in place of the word
     CUSTOMERNUMBER there's the actual customer number. Customer numbers
     range from 0001 to 1234. Each personalized SPAM message has to be
-    saved in a new txt file called coupon\_XXXX.txt (where XXXX is the
+    saved in a new txt file called ```coupon\_XXXX.txt``` (where ```XXXX``` is the
     customer number). Thank you for helping us generate SPAM!
-3.  Does it rhyme? Using the dictionary contained in data/dictionary.txt
+3.  *Does it rhyme?* Using the dictionary contained in ```data/dictionary.txt```
     write a function that takes a word and returns all words that end
     the same (which in reality may or may not rhyme, damned the English
     language!). The dictionary comes from
     [here](https://github.com/dwyl/english-words).
-4.  Is it an anagram? Using the dictionary contained in
-    data/dictionary.txt write a function that takes a word and checks if
+4.  *Is it an anagram?* Using the dictionary contained in
+    ```data/dictionary.txt``` write a function that takes a word and checks if
     it's the anagram of one or more words in the dictionary. The
     dictionary comes from [here](https://github.com/dwyl/english-words).
 
@@ -89,15 +89,15 @@ Data analysis
     people from the USA). Starting with a list of candy types, and
     randomly matching them up online, they asked people to vote their
     preferred candy between two alternatives. Results are cointained in
-    the folder data/candy-power-ranking, and include some info about
+    the folder ```data/candy-power-ranking```, and include some info about
     each candy as well. Load the data into Pandas, and see if you can
     find any correlations between candy characteristics and ranking.
-2.  **Population growth rate and migration\
-    **I read somewhere that population growth in high-income countries
+2.  **Population growth rate and migration**\
+    I read somewhere that population growth in high-income countries
     would have sunk to negative values, were it not for immigration. A
     shrinking population globally is good, a shrinking population in a
     single country often is not (for example, who'll pay your pensions?)
-    What does the data say? In the folder /data/population\_growth
+    What does the data say? In the folder ```/data/population\_growth```
     you'll find data about natural population growth rate (which only
     considers births and deaths), net migration rate (considering both
     immigration and emigration), and the income group of each country
@@ -118,7 +118,7 @@ Data analysis
     deaths and WASH (WAter, Sanitation and Hygiene), can you find the
     strongest correlations between mortality and access to safe water
     and facilities? You'll find everything in folder
-    data/diarrhoeal\_diseases/.\
+    ```data/diarrhoeal\_diseases/```.\
     Data regarding diseases comes from the [Institute for Health Metrics
     and Evaluation](https://vizhub.healthdata.org/gbd-compare/), and
     data about clean water and sanitation comes [from
