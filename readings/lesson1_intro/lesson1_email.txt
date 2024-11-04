@@ -1,0 +1,14 @@
+Hi everyone!
+
+First of all, thank you very much for coming to the first lesson yesterday.
+
+Here are the readings for next time, together with a short summary of what we did and the very few slides we used. I had to compress some of the stuff since email providers may have issues with Python notebooks as attachments.
+
+If you need any help, or if you want to start working on your personal project, don't hesitate to write.
+
+
+See you on the 3rd!
+
+
+Bests,
+Carlo

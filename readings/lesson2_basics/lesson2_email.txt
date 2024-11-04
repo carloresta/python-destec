@@ -1,0 +1,28 @@
+Hi everyone!
+
+I hope you enjoyed the exercise we did yesterday. Maybe "enjoy" is too strong a word, but you get what I mean. I know that writing code for the first time can be frustrating, but I promise you it's going to become much easier, very soon.
+
+Some stuff for next time:
+
+
+HOMEWORK
+---------
+Attached are the readings for next time. As always, they also contain a recap of the last lesson. Please remember to contact me during this week to agree upon a personal project!
+
+
+NEW FEEDBACK PAGE
+------------------
+From now on, if you want, you can leave ANONYMOUS feedback on the course by writing on this pad: <https://annuel2.framapad.org/p/destecpython2024-aadl?lang=en>
+If you have an idea on how to improve the course, or if you don't like something, this is the place to go. Please don't restrain yourselves. Since this is the first edition of the course, any and all comments (even insults) are useful.
+
+
+PYTHON VIDEOS
+--------------
+Somebody asked me to suggest videos that teach Python for beginners. I tried looking on YouTube, but the most popular videos all look like advertisements disguised as courses. I'm sure some are good, but I tried to watch a couple and didn't like them very much.
+This is to say that I didn't find something specific to suggest. I'm sorry. I didn't look very hard. BUT as long as you do exercises, any video is going to be ok! Really, the only important thing is just to write code yourself.
+Next time, if you want, we can talk a bit more about learning strategies, and compare ideas.
+
+
+Bests,
+
+Carlo

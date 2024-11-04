@@ -1,0 +1,22 @@
+Hi everyone!
+
+Lesson 4 was here and gone. No readings this time as well, but a short reminder of what we did and decided, for people that missed it. Also (maybe it would go without saying): remember to practice!
+
+PANDAS
+-------
+We spent lesson 4 looking at examples of the Pandas library. We only used the Jupyter notebooks I sent you during the lesson. Remember to check out the links I sent you last week if you want to learn more or do exercises using Pandas.
+
+
+EXTRA LESSON ON NOVEMBER 21st
+------------------------------
+The course just got one extra lesson, which will take place on Thursday, November 21st. This was done to reach 18 h total, since some of you need six hours for each credit, and would otherwise get a fractional amount.
+We voted, and the large majority decided to move the presentation of personal projects to this new, extra, lesson. However, since this change came along the way, please let me know if you need or want to do you presentation during the previous lesson, and we'll figure something out.
+
+
+And... that's it. During the next lesson we'll delve into the fascinating, inevitable and at times frustrating world of plotting with Python.
+
+
+
+Have a nice Sunday, and see you soon.
+
+Carlo

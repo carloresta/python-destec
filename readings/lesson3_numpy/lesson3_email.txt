@@ -1,0 +1,33 @@
+Hi everyone.
+
+First of all, thank you so much to all of you who are still coming to class. I can't tell you how happy I am to see all those faces on Thursdays!
+
+I'm sorry about the botched exercise during the second half of last lesson: my bad. I will try to rethink it and make it useful for another time.
+
+I thought about what we've achieved so far and I've decided to change the plans for the next lesson. I'm worried that I'm sending you too much new stuff to learn, without giving you enough time to practice. So for next time no new readings. Please keep doing exercises (I linked the page with simple problems in this pdf as well), and go over the documentation for numpy. Remember that you can use all the help you want: internet searches, documentation, ChatGPT... Don't focus too much on learning syntax: focus on using it as much as possible, and you'll start remembering it.
+
+Next time I'll actually try and explain something, instead of leaving everything to the readings. We'll start using Pandas, a library to load and clean data that I think many will need, and Matplotlib, a library to make plots. We'll also do some activities together, don't worry.
+
+I saw the feedback that somebody left about it being too early to think about projects, if you have no previous experience programming. You are right, and sorry for stressing you so much about it (and thank you so much for actually using the feedback page! :D). Everyone has their own rythm, based mostly on previous experience, so it's perfectly fine if you still need some time to familiarise with programming before thinking of a project.
+
+
+See you on Thursday, and keep coding (I know this sounds super-nerdy but in this case it's literal advice).
+
+
+Bests,
+
+Carlo
+
+
+PS: for those of you who already know they'll need it, or who desperately want to look ahead, here is...
+
+SOME STUFF ABOUT PANDAS:
+
+--- a video by Aileen Nielsen about Pandas and time series. It's very long, but at the beginning she does a very nice introduction on the library. She's very good! I'll probably take most of the next lesson from here:
+<https://youtu.be/JNfxr4BQrLk?feature=shared&t=306>
+
+--- she also wrote a book! I know that some of you will work with time series, so if you want, check it out:
+<https://www.oreilly.com/library/view/practical-time-series/9781492041641/>
+
+--- there are some very nice, application-specific tutorials in the Pandas website:
+<https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html>
