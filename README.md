@@ -8,3 +8,7 @@ You can find the email received after each lesson in the ``readings`` folder, to
 
 ## Acknowledgements
 Thank you to everyone who is taking the course (or that took the course, if you're reading this after Nov 2024). Thank you also to the DESTEC department of the University of Pisa for including this course in its calendar.
+
+## Feedback
+Comments are much appreciated (insults as well)! For the course of 2024, the feedback page is here:
+https://annuel2.framapad.org/p/destecpython2024-aadl?lang=en
