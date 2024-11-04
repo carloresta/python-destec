@@ -1,5 +1,5 @@
-Exercises
-=========
+Exercises v.1 [2024-11-04]
+==========================
 
 Feel free to use whatever approach to solve these exercises, as long as
 it's useful to you (nobody is giving out grades, so if you blindly
