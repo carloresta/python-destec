@@ -78,7 +78,7 @@ Words and characters
     ```data/coupon.txt```; you must customize it so that in place of the word
     CUSTOMERNUMBER there's the actual customer number. Customer numbers
     range from 0001 to 1234. Each personalized SPAM message has to be
-    saved in a new txt file called ```coupon\_XXXX.txt``` (where ```XXXX``` is the
+    saved in a new txt file called ```coupon_XXXX.txt``` (where ```XXXX``` is the
     customer number). Thank you for helping us generate SPAM!
 
 3.  *Does it rhyme?* Using the dictionary contained in ```data/dictionary.txt```
@@ -113,7 +113,7 @@ Data analysis
     would have sunk to negative values, were it not for immigration. A
     shrinking population globally is good, a shrinking population in a
     single country often is not (for example, who'll pay your pensions?)
-    What does the data say? In the folder ```/data/population\_growth```
+    What does the data say? In the folder ```/data/population_growth```
     you'll find data about natural population growth rate (which only
     considers births and deaths), net migration rate (considering both
     immigration and emigration), and the income group of each country
@@ -135,7 +135,7 @@ Data analysis
     deaths and WASH (WAter, Sanitation and Hygiene), can you find the
     strongest correlations between mortality and access to safe water
     and facilities? You'll find everything in folder
-    ```data/diarrhoeal\_diseases/```.\
+    ```data/diarrhoeal_diseases/```.\
     Data regarding diseases comes from the [Institute for Health Metrics
     and Evaluation](https://vizhub.healthdata.org/gbd-compare/), and
     data about clean water and sanitation comes [from
