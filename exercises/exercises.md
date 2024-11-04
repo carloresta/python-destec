@@ -66,9 +66,9 @@ Words and characters
     using the character 0 for the internal space and the character 1 for
     the sides. For example, this is a 5 x 4 rectangle:\
 
-        1 1 1 1 1\
-        1 0 0 0 1\
-        1 0 0 0 1\
+        1 1 1 1 1
+        1 0 0 0 1
+        1 0 0 0 1
         1 1 1 1 1
 
 2.  You've been put in charge of creating SPAM emails for a known online
