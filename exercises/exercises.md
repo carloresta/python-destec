@@ -1,6 +1,8 @@
 Exercises v.1 [2024-11-04]
 ==========================
 
+**Note: data.zip contains the same files as the data folder, but it's easier to download**
+
 Feel free to use whatever approach to solve these exercises, as long as
 it's useful to you (nobody is giving out grades, so if you blindly
 copy-paste a solution from the web you probably won't have achieved
